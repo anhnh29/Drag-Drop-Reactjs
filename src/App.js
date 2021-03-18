@@ -1,11 +1,11 @@
-import Todo from './components/Todo';
+import DND from './components/DND';
 
 import './App.css';
 
 function App() {
   return (
     <>
-      <Todo />
+      <DND />
     </>
   );
 }
